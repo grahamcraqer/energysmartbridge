@@ -2,7 +2,7 @@ name: "Energy Smart Bridge"
 description: "Energy Smart Bridge"
 version: "1.0.4"
 slug: "energy_smart_bridge"
-image: "ghcr.io/starsoccer/energysmartbridge/{arch}"
+image: "ghcr.io/grahamcraqer/energysmartbridge/{arch}"
 init: false
 arch:
   - aarch64
